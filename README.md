@@ -1,6 +1,6 @@
 <span>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raultapia" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raultapia" height="165">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=raultapia" height="165">
 </span>
 
 <a href="https://raultapia.com"><img src="https://img.shields.io/badge/ABOUT-444444?style=for-the-badge&logo=About.me&logoColor=white"></a>
